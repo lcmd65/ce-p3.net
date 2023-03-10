@@ -1,0 +1,19 @@
+C:\Source\Workspace\CE Laser App\obj\Debug\CE Laser App.csproj.AssemblyReference.cache
+C:\Source\Workspace\CE Laser App\obj\Debug\CE Laser App.csproj.SuggestedBindingRedirects.cache
+C:\Source\Workspace\CE Laser App\obj\Debug\CE_Laser_App.Form1.resources
+C:\Source\Workspace\CE Laser App\obj\Debug\CE_Laser_App.Properties.Resources.resources
+C:\Source\Workspace\CE Laser App\obj\Debug\CE Laser App.csproj.GenerateResource.cache
+C:\Source\Workspace\CE Laser App\obj\Debug\CE Laser App.csproj.CoreCompileInputs.cache
+C:\Source\Workspace\CE Laser App\bin\Debug\CE_Laser_App.exe.config
+C:\Source\Workspace\CE Laser App\bin\Debug\CE_Laser_App.exe
+C:\Source\Workspace\CE Laser App\bin\Debug\CE_Laser_App.pdb
+C:\Source\Workspace\CE Laser App\bin\Debug\EPPlus.dll
+C:\Source\Workspace\CE Laser App\bin\Debug\EPPlus.Interfaces.dll
+C:\Source\Workspace\CE Laser App\bin\Debug\EPPlus.System.Drawing.dll
+C:\Source\Workspace\CE Laser App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Source\Workspace\CE Laser App\bin\Debug\EPPlus.xml
+C:\Source\Workspace\CE Laser App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Source\Workspace\CE Laser App\obj\Debug\CE Laser App.csproj.CopyComplete
+C:\Source\Workspace\CE Laser App\obj\Debug\CE_Laser_App.exe
+C:\Source\Workspace\CE Laser App\obj\Debug\CE_Laser_App.pdb
+C:\Source\Workspace\CE Laser App\obj\Debug\CE_Laser_App.Form2.resources
