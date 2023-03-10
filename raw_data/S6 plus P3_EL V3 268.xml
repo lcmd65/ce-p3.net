@@ -1,0 +1,658 @@
+<?xml version="1.0"?>
+<script application="SolarMaster 2.10.3.5704" framework="129" dialect="19" machineid="198" author="hydra" version="0.0.0.11467" privileg="0" count="88" paramversion="245102" permission="1" >
+ <step guid="679191d5-5700-497c-84d4-738b160d0432" name="Glasbreite">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">2015</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="14ecb61b-8e05-4901-8318-522c9070152e" name="Glaslänge">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">1215</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="4b0afdf8-7730-4853-ade0-42705213001b" name="Rezept-Geschwindigkeit X">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="2">2500</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="f64fbc88-de28-48bb-81c8-26c0613fbb85" name="Rezept-Geschwindigkeit Y">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">2000</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="039b8fed-2093-437c-95fc-b81329beea07" name="Durchmesser Laser">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">20</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="59faf2d6-9d86-4cfc-8e74-5b5a096f7331" name="Frequenz Laser">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">1000</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="1aa7c1a5-8203-4c94-9e11-60270b840010" name="Overlap Isolation">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">10</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="b6c5fa09-b89b-43a9-9d73-4981511fabd8" name="Sollleistung Laser">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="2">2.25</prop>
+  <prop key="5010">0</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">2</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="8fc3f60f-b819-4127-8016-f34d3c375894" name="Wellenform Laser">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="1045dbaa-4565-4f7f-8783-d6b5df7aed4c" name="RF high">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">265</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="a9abd9a8-420c-45df-9475-3cdc0057ee1d" name="RF low">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="9b98f54e-1cd7-482d-8eb1-491dacedc123" name="Fokuslage">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">0</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="fb7dc518-7971-421a-b162-fcee57a9d842" name="Linienabstand X">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">4.454</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="cbfa5ecf-593e-4456-be00-a6a8a8fcbd3b" name="Linienabstand Y">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">61</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="2d01c462-2573-4587-a286-53c0646096be" name="Breite Isolation">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="7679f71a-80ec-4b6f-8835-b66868cee8d9" name="Überfahrweg Isolation X">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">5</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="4152a06d-ffb7-4fba-bfbe-c8ca72520e3a" name="Überfahrweg Isolation Y">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">5</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="b24ebf4f-027b-4889-b2a4-4b5260f2fe16" name="Rezept mit Struktur neu">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="c543452d-71f6-4136-8f5d-69ac15b6cc62" name="Startposition X (X-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">-15</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="c2b7f217-94b1-43fe-b92b-9bf8ac032ee2" name="Startposition Y (X-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">12.825</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="94f2e3c3-d4ed-4730-976a-4edc80050125" name="Länge (X-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">2045</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="eac23bb5-7f91-4cb0-bd05-a29bafee8c94" name="Anzahl (X-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">268</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="2bd15515-350c-45ac-9bfa-0bd3df9da02b" name="Startposition X (Y-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">90</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="fe5dd127-c178-458e-844a-f8db9b4236e3" name="Startposition Y (Y-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">100</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="4910901f-e497-467f-a418-db3614cae37f" name="Länge (Y-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">1000</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="d3f079de-2291-4345-afbe-797ab4ad5155" name="Anzahl (Y-Linien)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">12</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="2676d648-4b09-41d1-8053-af8392f656bb" name="Startposition X (Isolation)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">10.025</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="4b126a90-276e-4f52-b825-4cc735a1c89a" name="Startposition Y (Isolation)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">9.975</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="2ee07237-871a-4bac-b9bd-99d7112dc99f" name="Länge X (Isolation)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">79.95</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="20f6f9fb-4003-456d-a6dc-50d4a01ce721" name="Länge Y (Isolation)">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">80.05</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="901f3e0d-ee7c-4bca-a542-b085afcf340a" name="Schneide Struktur X">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="d30a0406-026f-43e8-b523-e6491f579b36" name="Schneide Struktur Y">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="65d4c04c-eb8e-4793-9c81-b291c3b69c6c" name="Schneide Isolation">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="b2d1040d-5cf6-4203-84bf-50cd73297342" name="Referenzierung aktiv">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="d6252ef1-2da5-4f49-9cbc-7647b2c4a56b" name="Halt nach Taktende, wenn keine Referenzierung">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="62ab91bf-a924-474d-819a-b6faf50df696" name="keine Strukturierung, wenn keine Referenzierung">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="c9edb720-f79d-4f9b-bfbd-92d5cd33136b" name="immer Interaktion">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="64392948-277d-4a72-aaf6-bac817668706" name="Interaktion, wenn keine Referenzierung">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="3ed6821c-d829-43f8-8998-e7c7808677f8" name="Interaktion nach Anzahl der Substrate">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="03a23f3f-f448-4b95-b2d8-6a43e80a71c5" name="180° gedreht">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="ca50fbc4-004b-4367-bbe6-37ec5f4c5d47" name="Referenzierung mit Positionierung">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="fa4d530a-3eef-4da2-a331-83a9129d999b" name="relative Position für Referenzierung">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">0</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="a7b989d2-9612-47fe-b53a-5dc036d98857" name="eine Y Positionierung, wenn fehlgeschlagen">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="b83e7b3f-f66b-44b0-973c-e903b976d871" name="Kalkulation Strahlabstandskorrekturfaktor">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="e822e1ac-3d42-4e16-b645-8f77a238dc69" name="Kalkulation Dehnungsfaktor Y">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="3e181028-c617-44af-b3ed-83f4d646a44d" name="Abstand zwischen den Linien">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">-0.042</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="b9aa83b1-724d-4e99-abc0-c44c8a779218" name="Bahnverfolgung Rezept eingeschaltet">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="af6aa147-4e7c-4cf3-9c63-564ed5de2256" name="Kamera 1 verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="1c456bc7-ee79-40d0-8d6b-9babb19988d8" name="Auswahl Linie - Kamera 1">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="3ca8e2a9-b2c9-4196-9e99-5f3e3c5cd9a4" name="Kamera 2 verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="5052cc35-56ee-4694-95f7-124b0d9808c8" name="Auswahl Linie - Kamera 2">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="c7810ec8-4c22-4cb1-b352-2efd8c0ceabe" name="Kamera 3 verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="9393cbd7-8513-470a-8a2a-2dd35bc534f3" name="Auswahl Linie - Kamera 3">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="859e1381-efe2-4905-bb2f-012b704e719e" name="Kamera 4 verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="83240e6a-7d5a-4b96-9f89-fd3f776d5e88" name="Auswahl Linie - Kamera 4">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="f98ae425-5924-4759-be95-cf4b674d755f" name="Kamera 7 verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="79eced26-23a2-402f-bffd-6c038bcff163" name="Auswahl Linie - Kamera 7">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="ac09c17f-c276-4a4b-bfd7-9ff4b939767b" name="Kamera 8 verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="6f706106-8703-4e51-9c78-3d6569227661" name="Auswahl Linie - Kamera 8">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="e6350029-b4b8-4fa9-adc8-e2f256638f5b" name="Nummer der Referenzposition">
+  <prop key="5" reminderlevel="100">= 0  aktuelle Referenzposition; &gt; 0  Referenzposition aus Liste</prop>
+  <prop key="10">2</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="1f95b491-85c3-431a-9ff3-9b4dea71f073" name="1. Lichtquelle verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="02db1b10-bffc-4b84-b042-a8ecbf03840a" name="2. Lichtquelle verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="f37021e5-c55d-44d7-994f-a066cd8af00f" name="3. Lichtquelle verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="c0e73ff5-3aba-4082-8311-ab84e7193bf8" name="4. Lichtquelle verwenden">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="02749f7b-ffd8-45bd-8c5d-901f6c7ab469" name="Dateiname Kameraparameter">
+  <prop key="5" empty="1"></prop>
+  <prop key="10"> </prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="c052a2d8-b9eb-4950-9af2-a773fe707d52" name="Belichtungszeit Kamera [s]">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="16d04873-b3da-4936-a74d-f4e65d73425c" name="Z-Position Kamera [mm]">
+  <prop key="5" reminderlevel="0">Z-Position bei simulierter Kamera</prop>
+  <prop key="10" precision="1">-1000</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="37379684-258f-491d-9216-2d2ba8598cac" name="Typ des Wizard">
+  <prop key="5" reminderlevel="0">=0 kein Wizard; =1 Fokushöhe; =2 Geschwindigkeit; =3 Überlapp; =4 Abschwächung</prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="5ffba509-00cd-474b-9e1a-ab966f8cdebb" name="Anzahl der Linien">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">4</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="0ded2208-4e4e-440b-9a62-acfebeb734b1" name="Abstand der Bereiche">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="1">30</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="df9a93d4-e826-4039-b475-f603522c2f5a" name="Startwert des Wizard">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">0.1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="4c45b467-52cf-48e2-adb1-fc108862976d" name="Schrittweite des Wizard">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="2">1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="018d070e-994f-49be-abd0-e30346fdc093" name="Endwert des Wizard">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="0">0.1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="a189e0d5-bc3c-4a6d-8e2a-813c81a1f62a" name="Gruppenrezept">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="9176659b-717e-4d93-a54f-9d3e003caf53" name="automatische Inspektion">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">0</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="8a23844e-3d54-4baf-aa07-ce162b826b34" name="ISIS eingeschaltet">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="f7248471-522e-4876-bfef-b446307356d3" name="1. Bereich Anzahl Linien">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">135</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="766c992b-4671-4486-9890-5798db3c31e9" name="1. Bereich untere Grenze">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.077</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="ac69d9fc-3e2e-43e7-9100-24aa7ea7c3f9" name="1. Bereich Sollwert">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="9ab629f0-0189-4a9e-a27e-b2babe9b328f" name="1. Bereich obere Grenze">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.132</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="7e06f91f-050c-47ac-a3a9-26e23d1b5094" name="2. Bereich Anzahl Linien">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">132</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="e0f65bc8-3299-4e96-ade2-625ca5ed9802" name="2. Bereich untere Grenze">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.077</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="d5d0b004-248e-446b-ae56-579505c9ecec" name="2. Bereich Sollwert">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="70732615-a715-4b59-ae06-b3b962bccf42" name="2. Bereich obere Grenze">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.132</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="7850f7e5-7f8c-4e92-a567-cdeaf33af055" name="3. Bereich Anzahl Linien">
+  <prop key="5" empty="1"></prop>
+  <prop key="10">1</prop>
+  <prop key="5010">1</prop>
+ </step>
+ <step guid="707ade83-90f8-4a7e-ac74-2fa17b509c55" name="3. Bereich untere Grenze">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.05</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="57e1ed1a-a25e-4869-843b-dd10c9f71ad2" name="3. Bereich Sollwert">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.07</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+ <step guid="b60be787-b739-4963-a91f-c6d0f21ba829" name="3. Bereich obere Grenze">
+  <prop key="5" empty="1"></prop>
+  <prop key="10" precision="3">0.1</prop>
+  <prop key="5010">1</prop>
+  <prop key="5099">0</prop>
+  <prop key="5100">4</prop>
+  <prop key="5101">0</prop>
+  <prop key="5102" empty="1"></prop>
+  <prop key="5103" empty="1"></prop>
+ </step>
+</script>
