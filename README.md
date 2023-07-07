@@ -7,4 +7,10 @@
 * .Net LOGIX (Rockwell Automation)
 * First Solar Privacy 2022
 
+# Documentation
+## .NET LOGIX
+https://ingeardrivers.com/products/net-products/netlogix/
+## .NET Framework
+https://learn.microsoft.com/en-us/dotnet/framework/
+
   
