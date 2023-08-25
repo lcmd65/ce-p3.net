@@ -1,4 +1,6 @@
 # Documentation
+<img width="1363" alt="Screenshot 2023-08-25 at 17 26 26" src="https://github.com/DatMinhLeChon/ce_p3.net/assets/93373784/403d12a7-f18f-42a7-b575-f872426f19af">
+
 FactoryTalk® Optix Studio™ is a development platform for creating human machine interface (HMI) and Internet of Things (IoT) applications. 
 
 FactoryTalk Optix Studio includes a library of predefined objects that support the modular design of graphical interfaces, features, and logic operations of an HMI application. By using specific C# language scripts, you can automate various actions in the design phase and add customized functions to projects. 
