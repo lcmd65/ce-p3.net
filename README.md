@@ -1,13 +1,13 @@
 # Documentation
 
 ### Requirement
-* .Net 4.5
-* Windown (7 ,10 ,11)
-* TCP/IP Port (Laser P3)
+.Net 4.5
+Windown (7 ,10 ,11)
+TCP/IP Port (Laser P3)
 
 ### Privacy
-* .Net LOGIX (Rockwell Automation)
-* First Solar Privacy 2022
+.Net LOGIX (Rockwell Automation)
+First Solar Privacy 2022
   
 ### .NET LOGIX
 https://ingeardrivers.com/products/net-products/netlogix/
